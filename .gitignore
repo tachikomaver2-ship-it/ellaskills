@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 扫描产物（可能含个人数据，绝不要提交）
+scan.json
+scan-report.md
+report.md
+ropa.md
+docs.json
+context.json
+*-report.md
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# 编辑器
+.idea/
+*.swp
